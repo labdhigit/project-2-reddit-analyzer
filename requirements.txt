@@ -2,5 +2,7 @@ streamlit
 praw
 vaderSentiment
 plotly
-pdfkit
 pandas
+transformers
+reportlab
+kaleido==0.2.1
