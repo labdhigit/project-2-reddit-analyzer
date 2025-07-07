@@ -1,6 +1,3 @@
-
-pip install praw vaderSentiment plotly pdfkit 
-
 import praw
 
 reddit = praw.Reddit(
