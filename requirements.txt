@@ -1,0 +1,6 @@
+streamlit
+praw
+vaderSentiment
+plotly
+pdfkit
+pandas
